@@ -1,0 +1,129 @@
+=====================================================
+     Basics and string
+=====================================================
+01 - hello world
+02 - variables var
+03 - variable naming rules
+04 - variables let
+05 - constants
+06 - string indexing
+07 - string methods 
+     trim()
+     toUpperCase()
+     toLowerCase()
+     slice()
+08 - typeof operator
+     conversion of string and numbers
+09 - string concatenation
+10 - string template
+11 - undefines, null, BigInt
+12 - booleans & comaprison operator
+     == vs ===
+     != vs !==
+
+=====================================================
+     Conditional Statements
+=====================================================
+13 - if else
+14 - truthy and falsy values
+15 - ternary operator
+16 = and & or operator
+17 - nested if else
+     user input
+18 - if, else if, else
+19 - switch statement
+
+=====================================================
+     Loops
+=====================================================
+20 - while loop
+21 - while loop example
+22 - for loop
+23 - for loop example
+24 - break and continue
+25 - do while loop
+
+=====================================================
+     Arrays
+=====================================================
+26 - Arrays
+27 - push
+     pop
+     shift
+     unshift
+28 - primitive vs reference datatype
+29 - array clone
+     concatenate arrays
+30 - for loop in array
+31 - const for creating array
+32 - while loop in array
+33 - for of loop in array
+34 - for in loop in array
+35 - array destructuring
+
+=====================================================
+     Objects
+=====================================================
+36 - objects
+37 - difference in . and []
+38 - how to iterate object
+39 - computed properties
+40 - spread operator in objects
+41 - object destructuring
+42 - objects inside array
+43 - nested destructuring
+
+=====================================================
+     Functions
+=====================================================
+44 - functions / function declaration
+45 - function expression
+46 - arrow functions
+47 - hoisting
+48 - function in side function
+49 - lexical sope
+50 - block scope and function scope
+51 - default parameters
+52 - rest parameters
+53 = parameter destructuring
+54 - callback functions
+55 - functions returning functions
+
+=====================================================
+     Array methods
+=====================================================     
+56 - forEach method
+57 - map method
+58 - filter method
+59 - reduced method
+60 - sort method
+61 - find method
+62 - every method
+63 - come method
+64 - fill method
+65 - splice method
+
+=====================================================
+     Iterables and Array like Objects
+=====================================================  
+66 - Iterables and Array like Objects
+67 - sets
+68 - map object
+69 - clone using object.assign
+70 - optional chaining
+
+=====================================================
+     Methods
+=====================================================  
+71 - this
+72 - window object
+73 - call, apply, bind
+74 - mistake not to be made
+75 - arrow functions
+76 - short syntax
+77 - function creating object -- 1
+78 - function creating object -- 2
+79 - chaining __proto__ [[prototype]]
+80 - function creating object -- 3
+
+81 - prototype

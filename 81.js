@@ -13,3 +13,7 @@ console.log(hello.myOwnProperty)
 console.log(hello.prototype)
 
 // only functions provide prototype proerty
+// treat prototype like an object
+
+hello.prototype.abc = "abc"
+console.log(hello.prototype.abc)

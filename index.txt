@@ -113,7 +113,7 @@
 70 - optional chaining
 
 =====================================================
-     Methods
+     Methods and more
 =====================================================  
 71 - this
 72 - window object
@@ -125,5 +125,20 @@
 78 - function creating object -- 2
 79 - chaining __proto__ [[prototype]]
 80 - function creating object -- 3
-
 81 - prototype
+82 - function creating object -- 4
+83 - new
+     function creating object -- 5
+84 - function creating object -- 6
+85 - prototype of an array
+
+=====================================================
+     Classes and more
+=====================================================  
+86 - class
+     function creating object -- 7
+87 - inheritance
+88 - super
+89 - accessing methods from different and same class
+90 - getter and setter
+91 - static methods and properties

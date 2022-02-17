@@ -1,0 +1,18 @@
+====================================================
+    How javaScript works
+====================================================
+01 - Global Execution Context - 1
+02 - Global Execution Context - 2
+     hoisting
+     function declaration (var)
+     variables(var)
+03 - Global Execution Context - 3
+     function expression (var)
+04 - Global Execution Context - 4
+     variables (let,const)
+05 - Global Execution Context - 5
+     variables inside function (let,const)
+06 - Function Execution Context
+07 - lexical environment
+     scope chain
+08 - closures

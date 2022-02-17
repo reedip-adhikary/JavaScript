@@ -16,3 +16,6 @@
 07 - lexical environment
      scope chain
 08 - closures
+09 - closures example - 1
+10 - closures example - 2
+11 - closures example - 3

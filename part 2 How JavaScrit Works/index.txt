@@ -19,3 +19,35 @@
 09 - closures example - 1
 10 - closures example - 2
 11 - closures example - 3
+
+====================================================
+    DOM
+====================================================
+12 - DOM
+13 - select element by id
+14 - selecting element using query selector
+15 - change text
+16 - change element style
+17 - get and set attributes
+18 - get multiple elements using get elements by class name
+19 - loop
+20 - inner HTML
+21 - Dom Traversing
+22 - add remove class
+23 - how to add html elements
+24 - other ways to add html elements
+25 - more ways to add html elements in different position
+26 - clone nodes
+27 - old methods to support old browsers
+28 - static vs live list
+29 - how to get dimentions of element
+30 - events
+31 - this
+32 - click event on multiple buttons
+33 - event object
+34 - behind the scenes
+35 - change bg after click
+36 - random color
+37 - keypress, mouseover, mouseleave
+38 - event bubbling, event capturing, event delegation
+39 - finishing the website

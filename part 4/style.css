@@ -1,0 +1,40 @@
+:root{
+    --hue-value: 210;
+    --color-primary: hsl(var(--hue-value), 29%, 24%);
+    --color-text: hsl(var(--hue-value), 29%, 29%);
+    --color-body: hsl(var(--hue-value), 15%, 94%);
+}
+
+.dark-mode{
+    --color-primary: hsl(var(--hue-value), 29%, 70%);
+    --color-text: hsl(var(--hue-value), 29%, 80%);
+    --color-body: hsl(var(--hue-value), 15%, 7%);
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--color-body);
+}
+
+h2{
+    color: var(--color-primary)
+}
+
+p{
+    color: var(--color-text)
+}
+
+.toggle-theme{
+    border: none;
+    outline: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 5px;
+    background: var(--color-primary);
+    color: var(--color-body);
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.toggle-theme:hover{
+    background: var(--color-text);
+}

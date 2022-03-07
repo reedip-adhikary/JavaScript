@@ -1,0 +1,28 @@
+==========================================================================
+    Synchronous vs Asynchronous programming
+==========================================================================
+
+01 - async vs sync
+     setTimeout
+02 - setInterval
+     Random background 2.0
+03 - understanding callback
+04 - callbacks in asynchronous programming
+     callback hell
+     pyramid of doom
+05 - promises
+06 - function returning promise
+07 - promise && setTimeout
+08 - Promise.resolve
+     promise chaining
+09 - solving callback hell / pyramid of doom problems using promise
+10 - AJAX
+11 - JSON, readystate, status
+12 - error handling when no response
+   - getting data from another URL
+   - callback hell
+13 - getting data from another URL
+   - promise
+14 - fetch
+15 - post request
+16 - async await

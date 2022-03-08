@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+input{
+    padding: 0.7rem 1rem;
+    width: 15rem;
+    outline: none;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+input:focus{
+    border: 2px solid rgb(0, 179, 0);
+}
+
+.btn{
+    background: white;
+    padding: 0.5rem 1rem;
+    border: 2px solid black;
+    border-radius: 3px;
+    transition: all 0.2s;
+}
+
+.btn:hover{
+    background: rgba(0, 179, 0, 0.205);
+    border: 2px solid rgb(0, 179, 0);
+}
